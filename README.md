@@ -3,5 +3,7 @@ A 3d game where you have to steal gems from kids, using Unity & C#. (VR/AR assig
 
 ## Controls
 Move : WASD or Arrows
+
 Dash : C
+
 Hit : Space bar
